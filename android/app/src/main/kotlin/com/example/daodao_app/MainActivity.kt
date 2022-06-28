@@ -1,4 +1,4 @@
-package com.example.daodao_app
+package tw.daoedu.daodao_app
 
 import io.flutter.embedding.android.FlutterActivity
 
